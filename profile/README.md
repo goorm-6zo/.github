@@ -17,7 +17,7 @@
 
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+# Team Members (팀원 및 팀 소개)
 ## 🎬 PD (Product Designer)
 <table> <tr> <td align="center"> <a href="https://github.com/lxxjune"> <img src="https://github.com/lxxjune.png?size=100" width="100px;" alt="이지윤"/> <br /> <sub><b>이지윤</b></sub> </a> </td> <td align="center"> <a href="https://github.com/s01d0ut"> <img src="https://github.com/s01d0ut.png?size=100" width="100px;" alt="김혜진"/> <br /> <sub><b>김혜진</b></sub> </a> </td> </tr> </table>
 
@@ -28,7 +28,7 @@
 <table> <tr> <td align="center"> <a href="https://github.com/sukangpunch"> <img src="https://github.com/sukangpunch.png?size=100" width="100px;" alt="강형준"/> <br /> <sub><b>강형준</b></sub> </a> </td> <td align="center"> <a href="https://github.com/Do-oya"> <img src="https://github.com/Do-oya.png?size=100" width="100px;" alt="박정현"/> <br /> <sub><b>박정현</b></sub> </a> </td> <td align="center"> <a href="https://github.com/jinhosoon"> <img src="https://github.com/jinhosoon.png?size=100" width="100px;" alt="순진호"/> <br /> <sub><b>순진호</b></sub> </a> </td> <td align="center"> <a href="https://github.com/hen715"> <img src="https://github.com/hen715.png?size=100" width="100px;" alt="이혜성"/> <br /> <sub><b>이혜성</b></sub> </a> </td> </tr> </table>
 <br/>
 
-# 3. 주요 기능
+# 주요 기능
 ### 1.  `회원가입 및 예매`
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/4fb895ad-a259-4cc2-95a2-aa71614d1f6e" />
 
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-# 4. Technology Stack (기술 스택)
+# Technology Stack (기술 스택)
 ### Infra
 ![Frame 2085668070](https://github.com/user-attachments/assets/1dd33013-73fa-4ac2-ad56-11038370e2df)
 

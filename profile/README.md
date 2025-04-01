@@ -48,7 +48,9 @@
 <br/>
 
 # Technology Stack (기술 스택)
-### Infra
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/267f3ae0-e764-4d24-838f-7e5e54cba930" />
+
+## Infra
 ![Frame 2085668070](https://github.com/user-attachments/assets/1dd33013-73fa-4ac2-ad56-11038370e2df)
 
 

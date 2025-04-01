@@ -43,14 +43,12 @@
 
 ### 5. `얼굴 인식/인증`
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/ff709cc2-2c31-4a26-afc1-9509914ba437" />
-
-<br/>
 <br/>
 
-# Technology Stack (기술 스택)
+# 기술 스택 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/267f3ae0-e764-4d24-838f-7e5e54cba930" />
 
-## Infra
+# 서버 아키텍처
 ![Frame 2085668070](https://github.com/user-attachments/assets/1dd33013-73fa-4ac2-ad56-11038370e2df)
 
 

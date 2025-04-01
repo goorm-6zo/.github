@@ -256,47 +256,9 @@
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Figma.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Postman.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Swagger.png?raw=true" width="80">
-
-
 </div>
 
 <br />
-
-
-# 6. Project Structure (프로젝트 구조)
-```bash
-src
-└── main
-    ├── java
-    │   └── findme.dangdangcrew
-    │       ├── chat
-    │       ├── evaluation
-    │       ├── global
-    │       │   ├── config
-    │       │   ├── dto
-    │       │   ├── entity
-    │       │   ├── exception
-    │       │   ├── interceptor
-    │       │   ├── publisher
-    │       │   ├── service
-    │       ├── meeting
-    │       ├── notification
-    │       ├── place
-    │       ├── sse
-    │       ├── user
-    │       │   ├── controller
-    │       │   ├── dto
-    │       │   ├── entity
-    │       │   ├── repository
-    │       │   ├── service
-    │       └── DangdangcrewApplication
-    ├── resources
-    │   └── application.yml
-
-```
-
-<br/>
-<br/>
 
 # 7. ProtoType (프로토타입)
 <table>
@@ -325,17 +287,3 @@ src
     <td align="center"><b>평가창</b></td>
   </tr>
 </table>
-
-# 8. Development Workflow (개발 워크플로우)
-## 브랜치 전략 (Branch Strategy)
-- dev Branch
-  - 배포 가능한 상태의 코드를 유지합니다.
-  - 모든 배포는 이 브랜치에서 이루어집니다.
-  
-- feature Branch
-  - 팀원 각자의 개발 브랜치입니다.
-  - 모든 기능 개발은 이 브랜치에서 이루어집니다.
-  - 브랜치명: 태그-#이슈번호-개발내용
-    - ex) feat-#14-user-api
-
-<br/>
